@@ -13,6 +13,18 @@ C++ utility for automatic file organization.
 
 ---
 
+## Dry Run
+
+Use `--dry-run` key, to see what will happen to your files
+
+Example:
+
+```bash
+organizer.exe Downloads --dry-run
+```
+
+---
+
 ## Categories
 
 - Images
